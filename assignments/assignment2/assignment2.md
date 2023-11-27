@@ -1,6 +1,6 @@
-# Trabalho 2: Integração de habilidades - 2023/2- GABARITO
+# Trabalho 2: Integração de habilidades - 2023/2 - GABARITO
 ## Disciplina: Redes de Computadores
-### Cursos: Engenharia de Computação / Elétrica / Tecnologia em Análise e Desenvolvimento de Sistemas
+### Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
 ### Andrey Luiz Tondo - RA: 2343185
 
 ## Tarefa 1:  Sub-Redes
